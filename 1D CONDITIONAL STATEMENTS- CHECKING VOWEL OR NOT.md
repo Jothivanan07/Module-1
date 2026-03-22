@@ -1,4 +1,4 @@
-## Experiment No: 1e – Conditional Statements- Checking Even or Odd
+## Experiment No: 1d – Conditional Statements- Checking Even or Odd
 ## AIM  
 To write a Python program to check whether the given number is even or odd using if..else statement.
 ## ALGORITHM  
